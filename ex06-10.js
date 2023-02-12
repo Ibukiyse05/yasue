@@ -4,5 +4,5 @@ function imgchange1() {
     }
     function imgchange2() {
         document.getElementById('logo').src= 
-        './imaeg/楽天.jpeg';
+        './imaeg/0x0.jpg';
         }
