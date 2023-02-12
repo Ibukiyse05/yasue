@@ -1,8 +1,8 @@
 function imgchange1() {
     document.getElementById('logo').src= 
-    './img/日本ハム.jpeg';
+    './image/lebron-james-scoring-record-0207-restricted-super-169.jpg';
     }
     function imgchange2() {
         document.getElementById('logo').src= 
-        './img/楽天.jpeg';
+        './imaeg/楽天.jpeg';
         }
