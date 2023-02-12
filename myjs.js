@@ -1,10 +1,8 @@
-alert('Hello,everyone!');
-alert(1+1);
-alert(Math.sqrt(1+1));
-alert(Math.sqrt(0÷1));
-alert(Math.sqrt(0÷0));
-alert(2+3);
-alert('2'+'3');
-alert(Number('2')+Number('3'));
-alert('2'+3);
-alert(Number('2')+3);
+function imgchange1() {
+    document.getElementById('logo').src= 
+    './img/日本ハム.jpeg';
+    }
+    function imgchange2() {
+        document.getElementById('logo').src= 
+        './img/楽天.jpeg';
+        }
